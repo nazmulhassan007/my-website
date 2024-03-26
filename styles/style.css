@@ -1,0 +1,180 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#home{
+    color: #ff5402;
+}
+
+header{
+    max-width: 1440px;
+}
+
+header{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: static;
+}
+
+.logo{
+    margin-left: 1%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+nav ul {
+    display: flex;
+
+
+}
+
+nav li{
+    list-style: none;
+    margin-right: 1%;
+}
+
+nav a{  
+    text-decoration: none;
+    padding: 20px;
+    color: #424247;
+
+}
+
+.container-2{
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1170px;
+    text-align: center;
+}
+
+
+h1{
+    padding-top: 106px;
+    font-size: 64px;
+    color: #fff;
+}
+
+
+.pra{
+    font-size: 16px;
+    color: #fff;
+    margin-top: 24px;
+    margin-right: 247px;
+    margin-left: 247px;
+}
+
+.w-g{
+    width: 174px;
+    height: 52px;
+    background-color: #fff;
+    color: #424247;
+    padding: 16px 16px 16px 48px;
+    border-radius: 8px;
+    border: 0;
+
+}
+
+
+
+.w{
+    width: 174px;
+    height: 52px;
+    background-color: #fff;
+    color: #424247;
+    padding: 16px 16px 16px 48px;
+    border-radius: 8px;
+    border: 0;
+}
+
+
+
+.s-t{
+    width: 174px;
+    height: 52px;
+    background-color: #fff;
+    color: #424247;
+    padding: 16px 16px 16px 48px;
+    border-radius: 8px;
+    border: 0;
+}
+
+
+
+.f-n{
+    width: 174px;
+    height: 52px;
+    background-color: #ff5402;
+    color: #fff;
+    padding: 16px 16px 16px 48px;
+    border-radius: 8px;
+    border: 0;
+
+}
+
+.banner{
+    margin-left: 15%;
+    display: flex;
+    width: 800px;
+    height: 75px;
+    padding: 16px;
+    align-items: center;
+    gap: 24px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+}
+
+.container-main-section{
+    display: flex;
+    margin-top: 6%;
+    margin-left: 14%;
+}
+
+h2{
+    font-size: 40px;
+    /* margin-right: 50%; */
+}
+
+h4{
+    color: #5a5a5a;
+    margin-right: 20%;
+}
+
+li{
+    margin-bottom: 16px;
+    color: #5a5a5a;
+}
+
+
+img{
+    margin-right: 17%;
+}
+
+.read-more{
+    background-color: #ff5402;
+    color: #fff;
+    padding: 14px 35px 13px 34px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+}
+
+
+#h4{
+    margin-right: 17%;
+    margin-top: 6%;
+    margin-left: 17%;
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+}
